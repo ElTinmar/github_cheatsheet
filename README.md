@@ -8,6 +8,8 @@
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
+copy the public key to your github account
+
 ### Config name and user
 
 ```
